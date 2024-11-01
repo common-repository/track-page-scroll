@@ -1,0 +1,36 @@
+body {font-family:"Open Sans",sans-serif; background:none !important}
+.creditme
+{
+	text-align:right;
+}
+#generatedshortcode
+{
+     background: #dfdfdf;
+    color: #666666;
+    font-weight: bold;
+}
+.error
+{
+	color:#F00;
+}
+code {
+    color: #da0303;
+    font-size: 17px;
+    padding: 7px 10px;
+}
+.track_page_setting_pro .multiselect-selected-text {
+  display: inline-block;
+  overflow: hidden;
+  width: 98%;
+}
+.track_page_setting_pro .multiselect.dropdown-toggle.btn.btn-default {
+  width: 100%;
+  text-align:left;
+}
+.track_page_setting_pro .btn-group{
+	width:100%;
+}
+.track_page_setting_pro .btn-group .caret{
+	margin-right: 5px;
+    margin-top: -7px;
+}
